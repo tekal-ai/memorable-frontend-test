@@ -6,9 +6,11 @@ interface RouteHiderProps {
 }
 
 export const RouteHiderWidget: FC<RouteHiderProps> = ({ children, route }) => {
-  const { getPathName } = useNavigationFeature();
+  const { matchesPath } = useNavigationFeature();
 
-  if (getPathName() === route) return <></>;
+  if (matchesPath(route)) {
+    return null;
+  }
 
   return <div className="animFadeIn">{children}</div>;
 };

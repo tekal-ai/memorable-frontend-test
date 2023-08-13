@@ -1,4 +1,9 @@
-import { useNavigate, useLocation, useParams } from "react-router-dom";
+import {
+  useNavigate,
+  useLocation,
+  useParams,
+  matchPath,
+} from "react-router-dom";
 
 export const useNavigationFeature = () => {
   const navigate = useNavigate();
@@ -34,6 +39,10 @@ export const useNavigationFeature = () => {
 
   const getPathName = () => {
     return location.pathname;
+  };
+
+  const matchesPath = (path: string) => {
+    return matchPath(path, getPathName());
   };
 
   const isRoot = () => {
@@ -74,5 +83,6 @@ export const useNavigationFeature = () => {
     getScroll,
     watchScroll,
     isRoot,
+    matchesPath,
   };
 };
