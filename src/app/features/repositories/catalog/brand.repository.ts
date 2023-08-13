@@ -1,5 +1,9 @@
 import { client } from "../clients/graphql.client";
-import { Brand, CreateBrandInput } from "src/graphql/client";
+import {
+  Brand,
+  CreateBrandInput,
+  CreativeLibraryItem,
+} from "src/graphql/client";
 import { BrandRepository } from "src/domain/brands/brands.domain";
 
 export class BrandBackendRepository implements BrandRepository {
@@ -32,5 +36,29 @@ export class BrandBackendRepository implements BrandRepository {
       name: 1,
       sector: 1,
     }) as Promise<Brand>;
+  }
+
+  async getBrandCreatives(brandId: string): Promise<CreativeLibraryItem[]> {
+    return new Promise((resolve) => {
+      client.chain.query
+        .listFolder({
+          input: {
+            brandId,
+          },
+        })
+        .get({
+          creatives: {
+            creativeId: 1,
+            name: 1,
+            fileType: 1,
+            url: 1,
+            updatedAt: 1,
+          },
+        })
+        .then((res) => {
+          if (!res?.creatives) return resolve([]);
+          return resolve(res.creatives as CreativeLibraryItem[]);
+        });
+    });
   }
 }

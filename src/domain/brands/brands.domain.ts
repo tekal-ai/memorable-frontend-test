@@ -1,9 +1,14 @@
 import { useRepositoryFeature } from "src/app/features/repositories/repositories.feature";
-import { Brand, CreateBrandInput } from "src/graphql/client";
+import {
+  Brand,
+  CreateBrandInput,
+  CreativeLibraryItem,
+} from "src/graphql/client";
 
 export interface BrandRepository {
   getBrands(): Promise<Brand[]>;
   createBrand(input: CreateBrandInput): Promise<Brand>;
+  getBrandCreatives(brandId: string): Promise<CreativeLibraryItem[]>;
 }
 
 export const useBrandsDomain = (repoId = "BrandRepository") => {
@@ -17,8 +22,13 @@ export const useBrandsDomain = (repoId = "BrandRepository") => {
     return repository.createBrand(input);
   };
 
+  const getBrandCreatives = (brandId: string) => {
+    return repository.getBrandCreatives(brandId);
+  };
+
   return {
     getBrands,
     createBrands,
+    getBrandCreatives,
   };
 };
