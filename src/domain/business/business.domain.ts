@@ -11,6 +11,7 @@ export interface BusinessRepository {
   ): Promise<BusinessAccount>;
 
   getBusinessAccount(): Promise<BusinessAccount | null>;
+  getListFolder(brandId: string): Promise<any[]>;
 }
 
 export const useBusinessDomain = (repoId = "BusinessRepository") => {
@@ -28,9 +29,14 @@ export const useBusinessDomain = (repoId = "BusinessRepository") => {
     return repository.getBusinessAccount();
   };
 
+  const getListFolder = (brandId: string) => {
+    return repository.getListFolder(brandId);
+  };
+
   return {
     updateBusiness,
     createBusiness,
     getBusinessAccount,
+    getListFolder,
   };
 };
