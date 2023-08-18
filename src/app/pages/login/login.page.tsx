@@ -28,6 +28,7 @@ export default function Login() {
 
   const onSubmit = useCallback(
     async ({ email, password }: FormValues) => {
+      console.log({email, password})
       await sendRequest({
         request: login({ email, password }),
         id: "login",
