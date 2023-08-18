@@ -3,6 +3,8 @@ import { BusinessRepository } from "src/domain/business/business.domain";
 import {
   BusinessAccount,
   CreateBusinessAccountInput,
+  CreativeLibraryFilter,
+  CreativeLibraryItemRequest,
 } from "src/graphql/client";
 
 export class BusinessBackendRepository implements BusinessRepository {
@@ -36,6 +38,29 @@ export class BusinessBackendRepository implements BusinessRepository {
         },
       });
       return (user?.businessAccount as BusinessAccount) ?? null;
+    } catch (err: any) {
+      throw new Error(`Error retrieving business account: ${err.message}`);
+    }
+  }
+
+  async getListFolder(brandId: string): Promise<any> {
+    try {
+      const cretive: CreativeLibraryFilter = {
+        brandId: brandId,
+      };
+      const creative: CreativeLibraryItemRequest = {
+        fileType: 1,
+        updatedAt: 1,
+        name: 1,
+        url: 1,
+      };
+
+      const user = await client.chain.query.listFolder({ input: cretive }).get({
+        __typename: 1,
+        updatedAt: 1,
+        creatives: creative,
+      });
+      return (user && user.creatives) || null;
     } catch (err: any) {
       throw new Error(`Error retrieving business account: ${err.message}`);
     }
