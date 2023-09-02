@@ -596,6 +596,11 @@ export type Sector =
   | "VocationalAndTechnicalSchools"
   | "CorporateTrainingAndDevelopment";
 
+export interface SectorItem {
+  id: number;
+  name: Sector;
+}
+
 /** Brand Status */
 export type BrandStatus =
   | "IN_PROGRESS"
@@ -5100,9 +5105,7 @@ export interface BrandObservableChain {
 
 export interface MutationPromiseChain {
   /** Creates a business Account for the provided business admin */
-  createBrand: (args: {
-    input: CreateBrandInput;
-  }) => BrandPromiseChain & {
+  createBrand: (args: { input: CreateBrandInput }) => BrandPromiseChain & {
     get: <R extends BrandRequest>(
       request: R,
       defaultValue?: FieldsSelection<Brand, R>,
@@ -5238,9 +5241,7 @@ export interface MutationPromiseChain {
   };
 
   /** Log in user */
-  logIn: (args: {
-    input: AuthenticationInput;
-  }) => LoggedInUserPromiseChain & {
+  logIn: (args: { input: AuthenticationInput }) => LoggedInUserPromiseChain & {
     get: <R extends LoggedInUserRequest>(
       request: R,
       defaultValue?: FieldsSelection<LoggedInUser, R>,
@@ -5256,9 +5257,7 @@ export interface MutationPromiseChain {
   };
 
   /** Update user profile. If setting new password and current password is invalid, BAD_REQUEST is thrown */
-  updateUserProfile: (args: {
-    input: UserProfileInput;
-  }) => UserPromiseChain & {
+  updateUserProfile: (args: { input: UserProfileInput }) => UserPromiseChain & {
     get: <R extends UserRequest>(
       request: R,
       defaultValue?: FieldsSelection<User, R>,
@@ -5295,9 +5294,7 @@ export interface MutationPromiseChain {
 
 export interface MutationObservableChain {
   /** Creates a business Account for the provided business admin */
-  createBrand: (args: {
-    input: CreateBrandInput;
-  }) => BrandObservableChain & {
+  createBrand: (args: { input: CreateBrandInput }) => BrandObservableChain & {
     get: <R extends BrandRequest>(
       request: R,
       defaultValue?: FieldsSelection<Brand, R>,

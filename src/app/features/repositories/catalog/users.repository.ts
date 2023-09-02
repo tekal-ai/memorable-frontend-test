@@ -11,12 +11,13 @@ export class UsersBackendRepository implements UsersRepository {
       businessAccount: {
         id: true,
         brands: {
-          id: true,
-          name: true,
-          logoUrl: true,
-          status: true,
           adAccounts: true,
+          id: true,
+          logoUrl: true,
+          name: true,
+          sector: true,
           socialAccounts: true,
+          status: true,
         },
       },
       isAdmin: true,

@@ -8,10 +8,22 @@ const CreativeLibraryPage = lazy(
     ),
 );
 
+const SectorsPage = lazy(
+  () =>
+    import(
+      "src/app/pages/creative-intelligence-suite/pages/creative-lab/pages/sectors/sectors.page"
+    ),
+);
+
 export const CreativeLabRoutes: Route[] = [
   {
     path: "/library",
     element: CreativeLibraryPage,
     title: "Library",
+  },
+  {
+    path: "/sectors",
+    element: SectorsPage,
+    title: "Sectors",
   },
 ];
