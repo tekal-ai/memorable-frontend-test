@@ -545,6 +545,11 @@ export interface Brand {
   businessAccount: BusinessAccount;
   __typename: "Brand";
 }
+export interface SectorDataItem {
+  id: number;
+  name?: string;
+  numCount?: number;
+}
 
 export type Sector =
   | "ApparelAndAccessories"
