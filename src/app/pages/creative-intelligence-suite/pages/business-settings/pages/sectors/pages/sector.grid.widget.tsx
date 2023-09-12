@@ -15,7 +15,7 @@ const SectorGridWidget: FC<SectorsData> = ({ sectorsData }) => {
             key={sectorItem.id}
             name={sectorItem.name}
             numCount={sectorItem.numCount}
-            className="w-100 flex flex-col items-center justify-center rounded-lg bg-gray-100 p-4"
+            className="w-100 flex flex-col items-center justify-center rounded-lg bg-gray-100 p-4 hover:bg-gray-200"
           />
         );
       })}
