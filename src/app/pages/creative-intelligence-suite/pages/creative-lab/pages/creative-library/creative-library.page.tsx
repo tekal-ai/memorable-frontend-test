@@ -19,7 +19,7 @@ const CreativeLibraryPage: FC = () => {
   if (error) {
     return (
       <CardPageUI>
-        {/* Replace with your actual error display component */}
+        {/* Replace with your actual error display component - maybe add error handling for this in the future? */}
         <div>Error: {error.message}</div>
       </CardPageUI>
     );

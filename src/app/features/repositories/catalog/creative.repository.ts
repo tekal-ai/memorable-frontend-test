@@ -3,7 +3,7 @@ import { CreativeLibraryItem } from "src/graphql/client";
 import { CreativeRepository } from "src/domain/creatives/creatives.domain";
 
 export class CreativeBackendRepository implements CreativeRepository {
-  getCreativesForFolder(brandId: string): Promise<CreativeLibraryItem[]> {
+  getCreativesForFolder(_brandId: string): Promise<CreativeLibraryItem[]> {
     throw new Error("Method not implemented.");
   }
   async getCreativesForBrand(brandId: string): Promise<CreativeLibraryItem[]> {
@@ -30,6 +30,4 @@ export class CreativeBackendRepository implements CreativeRepository {
         });
     });
   }
-
-  // You can add more methods as needed for other queries or mutations
 }
