@@ -1,11 +1,11 @@
 import { FC, useEffect } from "react";
 import CardPageUI from "src/app/ui/cards/card-page.ui";
-import { Descriptions } from "antd";
 import { SectorWidget } from "src/app/pages/creative-intelligence-suite/pages/business-settings/pages/sectors/sector.widget";
 import { useSectorsDomain } from "src/domain/sectors/sectors.domain";
 import { EmptyCreateUI } from "src/app/ui/empty/empty-create.ui";
 import { LoadingPage } from "src/app/features/operations/features/loadings/pages/loading.page";
 import { useSessionFeature } from "src/app/features/session/session.feature";
+import HeaderUI from "src/app/ui/header/header.ui";
 
 const SectorsPage: FC = () => {
   const { getSectors } = useSectorsDomain();
@@ -30,7 +30,12 @@ const SectorsPage: FC = () => {
 
   if (!sectors) return <></>;
   if (sectors?.length == 0)
-    return <EmptyCreateUI description="There are no sectors." />;
+    return (
+      <>
+        <HeaderUI title="Sectors" />
+        <EmptyCreateUI description="There are no sectors." />
+      </>
+    );
 
   const rows: Array<any> = [];
   for (let i = 0; i < sectors.length; i++) {
@@ -39,13 +44,7 @@ const SectorsPage: FC = () => {
 
   return (
     <CardPageUI>
-      <div>
-        <header className="mb-4 flex gap-2">
-          <div className="h-4" />
-          <Descriptions title="Sectors"></Descriptions>
-          <div className="flex-1" />
-        </header>
-      </div>
+      <HeaderUI title="Sectors" />
       {isLoading ? <LoadingPage /> : rows}
     </CardPageUI>
   );
