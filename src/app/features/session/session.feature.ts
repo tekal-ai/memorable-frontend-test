@@ -71,9 +71,14 @@ export const useSessionFeature = (repoId = "UsersRepository") => {
     state.setSessionId(sessionId);
   };
 
+  const setIsLoading = (isLoading: boolean) => {
+    state.setIsLoading(isLoading);
+  };
+
   return {
     user: state.user as User,
     currentBrand: state.currentBrand,
+    isLoading: state.isLoading,
     selectBrand,
     login,
     logout,
@@ -82,5 +87,6 @@ export const useSessionFeature = (repoId = "UsersRepository") => {
     setUser,
     canINavigateTo,
     isAdmin,
+    setIsLoading,
   };
 };

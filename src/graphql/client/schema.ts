@@ -496,6 +496,22 @@ export interface CreativeLibraryItem {
   __typename: "CreativeLibraryItem";
 }
 
+export interface SectorItem {
+  sectorId: Number,
+  name: Scalars["String"],
+  count: Number
+}
+
+export interface SectorName {
+  id: Number,
+  name: Scalars["String"],
+}
+
+export interface SectorCount {
+  id: Number,
+  count: Number
+}
+
 /** Creative Status */
 export type CreativeStatus =
   | "ConversionPending"

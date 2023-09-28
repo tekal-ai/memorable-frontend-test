@@ -9,6 +9,8 @@ export type SessionState = {
   selectBrand: (brand: Brand) => void;
   setSessionId: (sessionId: string) => void;
   removeUser: () => void;
+  isLoading: boolean | undefined;
+  setIsLoading: (loading: boolean) => void;
 };
 
 export const useSessionState = create<SessionState>((set) => ({
@@ -19,4 +21,6 @@ export const useSessionState = create<SessionState>((set) => ({
   setSessionId: (sessionId: string) => set({ sessionId }),
   setUser: (user: User | undefined) => set({ user }),
   removeUser: () => set({ user: null }),
+  setIsLoading: (loading: boolean) => set({ isLoading: loading }),
+  isLoading: undefined,
 }));

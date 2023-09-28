@@ -1,6 +1,7 @@
 import { FC } from "react";
 import CardPageUI from "src/app/ui/cards/card-page.ui";
 import { SearchInputUI } from "src/app/ui/inputs/search-input.ui";
+import CreativePage from "./pages/creative/creative.page";
 
 const CreativeLibraryPage: FC = () => {
   return (
@@ -17,7 +18,7 @@ const CreativeLibraryPage: FC = () => {
       >
         <SearchInputUI />
       </header>
-      <pre>Insert Table here</pre>
+      <CreativePage />
     </CardPageUI>
   );
 };
