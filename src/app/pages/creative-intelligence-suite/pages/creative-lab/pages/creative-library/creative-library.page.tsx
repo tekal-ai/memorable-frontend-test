@@ -1,8 +1,12 @@
 import { FC } from "react";
+import { useCurrentBrandCreatives } from "src/app/features/creatives/creatives.feature";
 import CardPageUI from "src/app/ui/cards/card-page.ui";
 import { SearchInputUI } from "src/app/ui/inputs/search-input.ui";
+import { TableUI } from "src/app/ui/tables/table.ui";
 
 const CreativeLibraryPage: FC = () => {
+  useCurrentBrandCreatives();
+
   return (
     <CardPageUI>
       <header
@@ -17,7 +21,7 @@ const CreativeLibraryPage: FC = () => {
       >
         <SearchInputUI />
       </header>
-      <pre>Insert Table here</pre>
+      <TableUI columns={[]} data={[]} />
     </CardPageUI>
   );
 };
