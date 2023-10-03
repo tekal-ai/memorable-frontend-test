@@ -103,7 +103,7 @@ type Query {
     brandId: String!
   ): [ChannelPerformanceMetrics!]
 
-  """
+  """ 
   List Folders and creatives from specific folder
   """
   listFolder(input: CreativeLibraryFilter!): CreativeLibraryFolder!
