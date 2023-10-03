@@ -1,10 +1,8 @@
 import {
   CreativeLibraryFilter,
-  CreativeLibraryFolderRequest,
+  CreativeLibraryFolder,
 } from "src/graphql/client";
 
 export interface CreativesRepository {
-  listFolder(
-    args: CreativeLibraryFilter,
-  ): Promise<CreativeLibraryFolderRequest>;
+  listFolder(args: CreativeLibraryFilter): Promise<CreativeLibraryFolder>;
 }

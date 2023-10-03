@@ -3,7 +3,7 @@ import { useRepositoryFeature } from "src/app/features/repositories/repositories
 import { CreativesRepository } from "src/domain/creatives/creatives.domain";
 import {
   CreativeLibraryFilter,
-  CreativeLibraryFolderRequest,
+  CreativeLibraryFolder,
 } from "src/graphql/client";
 import { useSessionFeature } from "../session/session.feature";
 
@@ -20,7 +20,7 @@ export const useCreativesFeature = (repoId = "CreativesRepository") => {
 };
 
 export const useCurrentBrandCreatives = () => {
-  const [data, setData] = useState<CreativeLibraryFolderRequest>();
+  const [data, setData] = useState<CreativeLibraryFolder>();
   const [loading, setLoading] = useState(true);
 
   const { currentBrand } = useSessionFeature();
@@ -36,7 +36,7 @@ export const useCurrentBrandCreatives = () => {
       .finally(() => {
         setLoading(false);
       });
-  }, []);
+  }, [currentBrand]);
 
   return {
     data,
