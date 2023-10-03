@@ -4,11 +4,13 @@ import { AssetsBackendRepository } from "./assets.repository";
 import { BusinessBackendRepository } from "./business.repository";
 import { EarlyAccessBackendRepository } from "./early-access.repository";
 import { CreativesBackendRepository } from "./creatives.repository";
+import { SectorsBackendRepository } from "./sectors.repository";
 
 export const repository = new Map();
 
 repository.set("BrandRepository", BrandBackendRepository);
 repository.set("CreativesRepository", CreativesBackendRepository);
+repository.set("SectorsRepository", SectorsBackendRepository);
 repository.set("UsersRepository", UsersBackendRepository);
 repository.set("AssetsRepository", AssetsBackendRepository);
 repository.set("EarlyAccessRepository", EarlyAccessBackendRepository);
