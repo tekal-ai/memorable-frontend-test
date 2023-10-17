@@ -1225,6 +1225,22 @@ export interface BrandRequest {
   __scalar?: boolean | number;
 }
 
+export interface SectorName {
+  id: number;
+  name: Scalars["String"];
+}
+
+export interface SectorCount {
+  id: number;
+  count: number;
+}
+
+export interface SectorItem {
+  sectorId: number;
+  name: Scalars["String"];
+  count: number;
+}
+
 export interface MutationRequest {
   /** Creates a business Account for the provided business admin */
   createBrand?: [{ input: CreateBrandInput }, BrandRequest];
