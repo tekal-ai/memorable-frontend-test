@@ -1,8 +1,21 @@
-import { FC } from "react";
+import { FC, useEffect } from "react";
+import useSWR from "swr";
 import CardPageUI from "src/app/ui/cards/card-page.ui";
 import { SearchInputUI } from "src/app/ui/inputs/search-input.ui";
+import { CreativeLibraryTableWidget } from "./creative-library.table.widget";
+import { useLibraryDomain } from "src/domain/library/library.domain";
+import { useSessionFeature } from "src/app/features/session/session.feature";
 
 const CreativeLibraryPage: FC = () => {
+  const { currentBrand } = useSessionFeature();
+  const { listFolders } = useLibraryDomain();
+
+  const { data } = useSWR(currentBrand?.id, (brandId) =>
+    listFolders({ brandId }),
+  );
+
+  const creatives = data?.creatives ?? [];
+
   return (
     <CardPageUI>
       <header
@@ -17,7 +30,8 @@ const CreativeLibraryPage: FC = () => {
       >
         <SearchInputUI />
       </header>
-      <pre>Insert Table here</pre>
+
+      <CreativeLibraryTableWidget data={creatives} />
     </CardPageUI>
   );
 };
