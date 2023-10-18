@@ -504,6 +504,22 @@ export type CreativeStatus =
   | "SaliencyPending"
   | "Ready";
 
+export interface SectorItem {
+  sectorId: Number,
+  name: Scalars["String"],
+  count: Number
+}
+
+export interface SectorName {
+  id: Number,
+  name: Scalars["String"],
+}
+
+export interface SectorCount {
+  id: Number,
+  count: Number
+}
+
 export interface User {
   id: Scalars["ID"];
   createdAt: Scalars["DateTime"];

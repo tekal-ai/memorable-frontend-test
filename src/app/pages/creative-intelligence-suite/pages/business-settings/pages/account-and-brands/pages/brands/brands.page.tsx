@@ -1,8 +1,8 @@
 import { FC } from "react";
-import { Descriptions } from "antd";
 import { EmptyCreateUI } from "src/app/ui/empty/empty-create.ui";
 import { useSessionFeature } from "src/app/features/session/session.feature";
 import { BrandsTableWidget } from "./brands.table.widget";
+import PageHeader from "src/app/ui/header/header.ui";
 
 const BrandPage: FC = () => {
   const { user } = useSessionFeature();
@@ -13,11 +13,7 @@ const BrandPage: FC = () => {
 
   return (
     <div>
-      <header className="mb-4 flex gap-2">
-        <div className="h-4" />
-        <Descriptions title="Brands"></Descriptions>
-        <div className="flex-1" />
-      </header>
+      <PageHeader title="Brands" />
       {hasBrands ? (
         <BrandsTableWidget data={brands} />
       ) : (
