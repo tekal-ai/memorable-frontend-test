@@ -42,3 +42,12 @@ input:focus {
   outline: none;
   box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
 }
+
+table#library-page-creatives-table thead tr th {
+    text-align: left;
+    padding: 5px;
+}
+
+table#library-page-creatives-table tbody tr td {
+  padding: 5px;
+}
