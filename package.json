@@ -71,7 +71,7 @@
     "react-query": "^3.39.1",
     "react-router-dom": "^6.3.0",
     "react-use-measure": "^2.1.1",
-    "react-wordcloud": "^1.2.7",
+    "react-wordcloud": "github:chrisrzhou/react-wordcloud",
     "recharts": "^2.1.13",
     "snarkdown": "^2.0.0",
     "suspend-react": "^0.0.8",
