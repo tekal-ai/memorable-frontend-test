@@ -5,7 +5,7 @@ import { ScrollTopWidget } from "./scroll-top.widget";
 export const ScrollTopButtonWidget: FC = () => {
   return (
     <ScrollTopWidget>
-      <ArrowUpOutlined /> Scroll top
+      <ArrowUpOutlined rev={undefined} /> Scroll top
     </ScrollTopWidget>
   );
 };
