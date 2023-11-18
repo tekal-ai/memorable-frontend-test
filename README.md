@@ -12,6 +12,6 @@ The purpose of this test is to assess your technical skills in handling tasks th
 
 Fork this repo, clone it and run:
 
-    $ npm install
+    $ yarn install
 
     $ npm start
