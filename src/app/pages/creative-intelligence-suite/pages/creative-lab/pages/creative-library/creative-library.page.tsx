@@ -16,54 +16,52 @@ const CreativeLibraryPage: FC = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const endpoint = "https://api-staging.memorable.io/graphql";
   const token = localStorage.getItem("token")?.replace(/["]+/g, "");
+  const query = `query ListFolder($input: CreativeLibraryFilter!) {
+    listFolder(input: $input) {
+      creatives {
+        creativeId
+        name
+        fileType
+        url
+        clipEmbeddingUrl
+        status
+        createdAt
+        updatedAt
+      }
+    }
+  }`;
+  const variables = {
+    input: {
+      brandId: `${currentBrand?.id}`,
+    },
+  };
+  const headers = {
+    Authorization: `Bearer ${token}`,
+  };
+  const fetchData = async () => {
+    try {
+      const response = await axios.post(
+        endpoint,
+        { query, variables },
+        { headers },
+      );
+
+      if (response.data.errors) {
+        setError(response.data.errors);
+      } else {
+        setCreatives(response.data.data.listFolder.creatives);
+      }
+
+      setLoading(false);
+    } catch (err: any) {
+      setError(err);
+      setLoading(false);
+    }
+  };
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await axios.post(
-          "https://api-staging.memorable.io/graphql",
-          {
-            query: `query ListFolder($input: CreativeLibraryFilter!) {
-              listFolder(input: $input) {
-                creatives {
-                  creativeId
-                  name
-                  fileType
-                  url
-                  clipEmbeddingUrl
-                  status
-                  createdAt
-                  updatedAt
-                }
-              }
-            }`,
-            variables: {
-              input: {
-                brandId: `${currentBrand?.id}`,
-              },
-            },
-          },
-          {
-            headers: {
-              Authorization: `Bearer ${token}`,
-            },
-          },
-        );
-
-        if (response.data.errors) {
-          setError(response.data.errors);
-        } else {
-          setCreatives(response.data.data.listFolder.creatives);
-        }
-
-        setLoading(false);
-      } catch (err: any) {
-        setError(err);
-        setLoading(false);
-      }
-    };
-
     fetchData();
   }, [currentBrand]);
 
