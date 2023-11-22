@@ -1,0 +1,1238 @@
+{
+  "data": {
+    "listFolder": {
+      "creatives": [
+        {
+          "creativeId": "169634830928711410268",
+          "name": "Eggplant.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830928711410268_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830928711410268_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:17.000Z"
+        },
+        {
+          "creativeId": "169634830942943869148",
+          "name": "Glass Of Milk.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830942943869148_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830942943869148_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:10.000Z"
+        },
+        {
+          "creativeId": "169634830953358350219",
+          "name": "Kiwi Fruit.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830953358350219_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830953358350219_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:16.000Z"
+        },
+        {
+          "creativeId": "169634830955096221925",
+          "name": "Croissant.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830955096221925_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830955096221925_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:26.000Z"
+        },
+        {
+          "creativeId": "169634830957768627153",
+          "name": "Red Apple.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830957768627153_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830957768627153_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:07.000Z"
+        },
+        {
+          "creativeId": "169634830959466050544",
+          "name": "Mango.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830959466050544_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830959466050544_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830967450234667",
+          "name": "Melon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830967450234667_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830967450234667_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:11.000Z"
+        },
+        {
+          "creativeId": "169634830967534017142",
+          "name": "Pie.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830967534017142_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830967534017142_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:10.000Z"
+        },
+        {
+          "creativeId": "169634830969337499655",
+          "name": "Broccoli.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830969337499655_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830969337499655_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:26.000Z"
+        },
+        {
+          "creativeId": "169634830970539271441",
+          "name": "Cucumber.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830970539271441_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830970539271441_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:25.000Z"
+        },
+        {
+          "creativeId": "169634830970961194230",
+          "name": "Bagel.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830970961194230_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830970961194230_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830974477272185",
+          "name": "Green Apple.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830974477272185_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830974477272185_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:18.000Z"
+        },
+        {
+          "creativeId": "169634830977664372631",
+          "name": "Onion.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830977664372631_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830977664372631_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:10.000Z"
+        },
+        {
+          "creativeId": "169634830979335050749",
+          "name": "Garlic.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830979335050749_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830979335050749_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:18.000Z"
+        },
+        {
+          "creativeId": "169634830983566703580",
+          "name": "Ice Cream.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830983566703580_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830983566703580_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:14.000Z"
+        },
+        {
+          "creativeId": "169634830989349216195",
+          "name": "Pretzel.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830989349216195_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830989349216195_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:53.000Z",
+          "updatedAt": "2023-10-03T15:52:06.000Z"
+        },
+        {
+          "creativeId": "169634830840115688917",
+          "name": "Tangerine.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830840115688917_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830840115688917_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:02.000Z"
+        },
+        {
+          "creativeId": "169634830843225981322",
+          "name": "Bell Pepper.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830843225981322_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830843225981322_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830847729575427",
+          "name": "Shortcake.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830847729575427_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830847729575427_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:10.000Z"
+        },
+        {
+          "creativeId": "169634830852447421156",
+          "name": "Watermelon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830852447421156_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830852447421156_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:03.000Z"
+        },
+        {
+          "creativeId": "169634830853579359232",
+          "name": "Egg.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830853579359232_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830853579359232_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:03.000Z"
+        },
+        {
+          "creativeId": "169634830855397052230",
+          "name": "Coconut.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830855397052230_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830855397052230_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:20.000Z"
+        },
+        {
+          "creativeId": "169634830855926204238",
+          "name": "Cup With Straw.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830855926204238_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830855926204238_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:26.000Z"
+        },
+        {
+          "creativeId": "169634830860486208697",
+          "name": "Tamale.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830860486208697_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830860486208697_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:05.000Z"
+        },
+        {
+          "creativeId": "169634830864043145344",
+          "name": "Bottle With Popping Cork.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830864043145344_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830864043145344_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:25.000Z"
+        },
+        {
+          "creativeId": "169634830866716937805",
+          "name": "Burrito.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830866716937805_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830866716937805_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830874252579796",
+          "name": "Chestnut.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830874252579796_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830874252579796_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:24.000Z"
+        },
+        {
+          "creativeId": "169634830877657823749",
+          "name": "Bone.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830877657823749_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830877657823749_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830882640842820",
+          "name": "Dumpling.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830882640842820_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830882640842820_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:03.000Z"
+        },
+        {
+          "creativeId": "169634830885473952831",
+          "name": "Butter.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830885473952831_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830885473952831_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:02.000Z"
+        },
+        {
+          "creativeId": "169634830887019120042",
+          "name": "Cookie.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830887019120042_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830887019120042_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:20.000Z"
+        },
+        {
+          "creativeId": "169634830891597155383",
+          "name": "Chocolate Bar.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830891597155383_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830891597155383_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:20.000Z"
+        },
+        {
+          "creativeId": "169634830896460584735",
+          "name": "Cupcake.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830896460584735_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830896460584735_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:18.000Z"
+        },
+        {
+          "creativeId": "169634830904747977244",
+          "name": "Potato.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830904747977244_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830904747977244_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:06.000Z"
+        },
+        {
+          "creativeId": "169634830906370079920",
+          "name": "Ear Of Corn.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830906370079920_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830906370079920_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:19.000Z"
+        },
+        {
+          "creativeId": "169634830910325797938",
+          "name": "Cut Of Meat.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830910325797938_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830910325797938_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:19.000Z"
+        },
+        {
+          "creativeId": "169634830911711261232",
+          "name": "Salt.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830911711261232_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830911711261232_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:08.000Z"
+        },
+        {
+          "creativeId": "169634830915323068958",
+          "name": "Dango.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830915323068958_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830915323068958_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:16.000Z"
+        },
+        {
+          "creativeId": "169634830915438966749",
+          "name": "Moon Cake.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830915438966749_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830915438966749_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:16.000Z"
+        },
+        {
+          "creativeId": "169634830929483193012",
+          "name": "Doughnut.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830929483193012_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830929483193012_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:18.000Z"
+        },
+        {
+          "creativeId": "169634830930257679945",
+          "name": "Fork And Knife.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830930257679945_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830930257679945_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:19.000Z"
+        },
+        {
+          "creativeId": "169634830931173718625",
+          "name": "Pancakes.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830931173718625_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830931173718625_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:08.000Z"
+        },
+        {
+          "creativeId": "169634830951294310972",
+          "name": "Blueberries.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830951294310972_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830951294310972_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:26.000Z"
+        },
+        {
+          "creativeId": "169634830959317205567",
+          "name": "Hot Dog.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830959317205567_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830959317205567_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:52.000Z",
+          "updatedAt": "2023-10-03T15:52:15.000Z"
+        },
+        {
+          "creativeId": "169634830745096346094",
+          "name": "Popcorn.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830745096346094_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830745096346094_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:13.000Z"
+        },
+        {
+          "creativeId": "169634830750326226717",
+          "name": "Meat On Bone.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830750326226717_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830750326226717_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:16.000Z"
+        },
+        {
+          "creativeId": "169634830751796363359",
+          "name": "Peach.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830751796363359_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830751796363359_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:07.000Z"
+        },
+        {
+          "creativeId": "169634830756721843052",
+          "name": "Green Salad.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830756721843052_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830756721843052_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:14.000Z"
+        },
+        {
+          "creativeId": "169634830758417508262",
+          "name": "Custard.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830758417508262_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830758417508262_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:19.000Z"
+        },
+        {
+          "creativeId": "169634830758647599380",
+          "name": "Hamburger.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830758647599380_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830758647599380_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:15.000Z"
+        },
+        {
+          "creativeId": "169634830760388578913",
+          "name": "Sandwich.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830760388578913_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830760388578913_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830761070972432",
+          "name": "Falafel.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830761070972432_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830761070972432_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:17.000Z"
+        },
+        {
+          "creativeId": "169634830765360480024",
+          "name": "Leafy Green.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830765360480024_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830765360480024_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:09.000Z"
+        },
+        {
+          "creativeId": "169634830767620280700",
+          "name": "Honey Pot.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830767620280700_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830767620280700_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830770412974726",
+          "name": "Fried Shrimp.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830770412974726_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830770412974726_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:16.000Z"
+        },
+        {
+          "creativeId": "169634830780465355650",
+          "name": "Lemon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830780465355650_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830780465355650_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830781594131232",
+          "name": "Peanuts.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830781594131232_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830781594131232_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:09.000Z"
+        },
+        {
+          "creativeId": "169634830781762431461",
+          "name": "Hot Beverage.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830781762431461_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830781762431461_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:15.000Z"
+        },
+        {
+          "creativeId": "169634830785972784690",
+          "name": "Curry Rice.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830785972784690_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830785972784690_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830798284138195",
+          "name": "Grapes.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830798284138195_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830798284138195_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:17.000Z"
+        },
+        {
+          "creativeId": "169634830802936476067",
+          "name": "Mushroom.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830802936476067_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830802936476067_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:07.000Z"
+        },
+        {
+          "creativeId": "169634830804827420504",
+          "name": "Fork And Knife With Plate.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830804827420504_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830804827420504_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:17.000Z"
+        },
+        {
+          "creativeId": "169634830804877235198",
+          "name": "Tropical Drink.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830804877235198_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830804877235198_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:01.000Z"
+        },
+        {
+          "creativeId": "169634830806067898478",
+          "name": "Bowl With Spoon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830806067898478_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830806067898478_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830808317509337",
+          "name": "Hot Pepper.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830808317509337_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830808317509337_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:13.000Z"
+        },
+        {
+          "creativeId": "169634830817917317655",
+          "name": "Shaved Ice.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830817917317655_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830817917317655_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:06.000Z"
+        },
+        {
+          "creativeId": "169634830819354008648",
+          "name": "Baguette Bread.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830819354008648_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830819354008648_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:24.000Z"
+        },
+        {
+          "creativeId": "169634830830150305873",
+          "name": "Pizza.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830830150305873_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830830150305873_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:08.000Z"
+        },
+        {
+          "creativeId": "169634830831324112513",
+          "name": "Pineapple.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830831324112513_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830831324112513_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:09.000Z"
+        },
+        {
+          "creativeId": "169634830832073259995",
+          "name": "Canned Food.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830832073259995_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830832073259995_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:25.000Z"
+        },
+        {
+          "creativeId": "169634830832846260783",
+          "name": "Tomato.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830832846260783_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830832846260783_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:11.000Z"
+        },
+        {
+          "creativeId": "169634830843575254751",
+          "name": "Olive.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830843575254751_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830843575254751_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:51.000Z",
+          "updatedAt": "2023-10-03T15:52:10.000Z"
+        },
+        {
+          "creativeId": "169634830649796989750",
+          "name": "Oden.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830649796989750_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830649796989750_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:01.000Z"
+        },
+        {
+          "creativeId": "169634830650220357133",
+          "name": "Strawberry.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830650220357133_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830650220357133_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:05.000Z"
+        },
+        {
+          "creativeId": "169634830651271308134",
+          "name": "Soft Ice Cream.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830651271308134_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830651271308134_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:08.000Z"
+        },
+        {
+          "creativeId": "169634830652858914255",
+          "name": "Taco.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830652858914255_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830652858914255_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:04.000Z"
+        },
+        {
+          "creativeId": "169634830653532007387",
+          "name": "Bread.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830653532007387_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830653532007387_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830653715724138",
+          "name": "Stuffed Flatbread.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830653715724138_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830653715724138_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:13.000Z"
+        },
+        {
+          "creativeId": "169634830655347258994",
+          "name": "Oyster.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830655347258994_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830655347258994_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:02.000Z"
+        },
+        {
+          "creativeId": "169634830656563311184",
+          "name": "Ice.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830656563311184_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830656563311184_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:04.000Z"
+        },
+        {
+          "creativeId": "169634830657572438971",
+          "name": "Rice Ball.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830657572438971_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830657572438971_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:01.000Z"
+        },
+        {
+          "creativeId": "169634830657624621638",
+          "name": "Wine Glass.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830657624621638_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830657624621638_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:14.000Z"
+        },
+        {
+          "creativeId": "169634830659120447298",
+          "name": "Bacon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830659120447298_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830659120447298_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:24.000Z"
+        },
+        {
+          "creativeId": "169634830659859660535",
+          "name": "Rice Cracker.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830659859660535_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830659859660535_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:03.000Z"
+        },
+        {
+          "creativeId": "169634830660670835496",
+          "name": "Spoon.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830660670835496_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830660670835496_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:09.000Z"
+        },
+        {
+          "creativeId": "169634830661942818922",
+          "name": "Fondue.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830661942818922_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830661942818922_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:02.000Z"
+        },
+        {
+          "creativeId": "169634830662927535396",
+          "name": "Cherries.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830662927535396_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830662927535396_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:24.000Z"
+        },
+        {
+          "creativeId": "169634830663070083568",
+          "name": "Bento Box.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663070083568_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663070083568_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:04.000Z"
+        },
+        {
+          "creativeId": "169634830663085936147",
+          "name": "Cooking.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663085936147_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663085936147_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830663392214236",
+          "name": "Steaming Bowl.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663392214236_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830663392214236_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:06.000Z"
+        },
+        {
+          "creativeId": "169634830664360884167",
+          "name": "Teacup Without Handle.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830664360884167_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830664360884167_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:05.000Z"
+        },
+        {
+          "creativeId": "169634830664369437088",
+          "name": "Cocktail Glass.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830664369437088_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830664369437088_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:24.000Z"
+        },
+        {
+          "creativeId": "169634830666788398063",
+          "name": "Fortune Cookie.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830666788398063_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830666788398063_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:04.000Z"
+        },
+        {
+          "creativeId": "169634830668348844629",
+          "name": "Waffle.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668348844629_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668348844629_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:13.000Z"
+        },
+        {
+          "creativeId": "169634830668395810657",
+          "name": "Takeout Box.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668395810657_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668395810657_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:14.000Z"
+        },
+        {
+          "creativeId": "169634830668437749522",
+          "name": "Shallow Pan Of Food.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668437749522_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830668437749522_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:05.000Z"
+        },
+        {
+          "creativeId": "169634830669373673658",
+          "name": "Clinking Beer Mugs.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830669373673658_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830669373673658_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830671751673278",
+          "name": "Beer Mug.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830671751673278_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830671751673278_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:23.000Z"
+        },
+        {
+          "creativeId": "169634830671751702574",
+          "name": "Flatbread.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830671751702574_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830671751702574_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:01.000Z"
+        },
+        {
+          "creativeId": "169634830673565974330",
+          "name": "Lollipop.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830673565974330_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830673565974330_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:04.000Z"
+        },
+        {
+          "creativeId": "169634830675037729860",
+          "name": "Baby Bottle.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830675037729860_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830675037729860_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:21.000Z"
+        },
+        {
+          "creativeId": "169634830675278973200",
+          "name": "Poultry Leg.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830675278973200_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830675278973200_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830682697657593",
+          "name": "Banana.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830682697657593_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830682697657593_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:27.000Z"
+        },
+        {
+          "creativeId": "169634830684296645684",
+          "name": "Chopsticks.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684296645684_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684296645684_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:20.000Z"
+        },
+        {
+          "creativeId": "169634830684620939368",
+          "name": "Candy.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684620939368_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684620939368_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:25.000Z"
+        },
+        {
+          "creativeId": "169634830684626866453",
+          "name": "Sushi.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684626866453_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830684626866453_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:14.000Z"
+        },
+        {
+          "creativeId": "169634830694145137357",
+          "name": "Sake.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830694145137357_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830694145137357_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:07.000Z"
+        },
+        {
+          "creativeId": "169634830695557147652",
+          "name": "Spaghetti.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830695557147652_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830695557147652_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:06.000Z"
+        },
+        {
+          "creativeId": "169634830701313044735",
+          "name": "Bubble Tea.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830701313044735_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830701313044735_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:27.000Z"
+        },
+        {
+          "creativeId": "169634830705341101594",
+          "name": "Birthday Cake.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830705341101594_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830705341101594_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830706342359429",
+          "name": "Beverage Box.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830706342359429_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830706342359429_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:01.000Z"
+        },
+        {
+          "creativeId": "169634830707527986074",
+          "name": "Cheese Wedge.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830707527986074_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830707527986074_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:26.000Z"
+        },
+        {
+          "creativeId": "169634830711361124936",
+          "name": "Cooked Rice.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830711361124936_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830711361124936_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:02.000Z"
+        },
+        {
+          "creativeId": "169634830711437919987",
+          "name": "Carrot.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830711437919987_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830711437919987_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830731770318481",
+          "name": "Roasted Sweet Potato.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830731770318481_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830731770318481_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:09.000Z"
+        },
+        {
+          "creativeId": "169634830733778660120",
+          "name": "Kitchen Knife.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830733778660120_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830733778660120_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:11.000Z"
+        },
+        {
+          "creativeId": "169634830748641601518",
+          "name": "Mate.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830748641601518_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830748641601518_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:15.000Z"
+        },
+        {
+          "creativeId": "169634830755077775113",
+          "name": "Pot Of Food.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830755077775113_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830755077775113_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:08.000Z"
+        },
+        {
+          "creativeId": "169634830756919049199",
+          "name": "Pear.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830756919049199_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830756919049199_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:12.000Z"
+        },
+        {
+          "creativeId": "169634830765155881132",
+          "name": "French Fries.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830765155881132_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830765155881132_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:50.000Z",
+          "updatedAt": "2023-10-03T15:52:18.000Z"
+        },
+        {
+          "creativeId": "169634830642220704686",
+          "name": "Tumbler Glass.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830642220704686_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830642220704686_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:49.000Z",
+          "updatedAt": "2023-10-03T15:52:00.000Z"
+        },
+        {
+          "creativeId": "169634830645151884425",
+          "name": "Clinking Glasses.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830645151884425_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830645151884425_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:49.000Z",
+          "updatedAt": "2023-10-03T15:52:22.000Z"
+        },
+        {
+          "creativeId": "169634830646764287256",
+          "name": "Avocado.png",
+          "fileType": "IMAGE",
+          "url": "https://creative-suite-library.s3.amazonaws.com/production/thumbnail/01H5QRWQ6PK3V9P1TWXCMNY513/169634830646764287256_thumbnail.jpg",
+          "clipEmbeddingUrl": "s3://creative-suite-library/production/embeddings/01H5QRWQ6PK3V9P1TWXCMNY513/169634830646764287256_converted.pt",
+          "status": "Ready",
+          "createdAt": "2023-10-03T15:51:49.000Z",
+          "updatedAt": "2023-10-03T15:52:20.000Z"
+        }
+      ]
+    }
+  }
+}

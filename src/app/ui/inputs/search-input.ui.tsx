@@ -5,7 +5,10 @@ import { SearchOutlined } from "@ant-design/icons";
 export const SearchInputUI: FC = () => {
   return (
     <div>
-      <Input placeholder="Search..." prefix={<SearchOutlined />} />
+      <Input
+        placeholder="Search..."
+        prefix={<SearchOutlined rev={undefined} />}
+      />
     </div>
   );
 };

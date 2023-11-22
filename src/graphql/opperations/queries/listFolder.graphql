@@ -1,0 +1,14 @@
+query ListFolder($input: CreativeLibraryFilter!) {
+  listFolder(input: $input) {
+    creatives {
+      creativeId
+      name
+      fileType
+      url
+      clipEmbeddingUrl
+      status
+      createdAt
+      updatedAt
+    }
+  }
+}

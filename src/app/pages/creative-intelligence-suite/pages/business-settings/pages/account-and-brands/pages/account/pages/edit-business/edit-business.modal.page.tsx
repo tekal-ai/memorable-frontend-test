@@ -17,7 +17,7 @@ const EditBusinessModalPage: FC = () => {
         propsTrigger={{ type: "text" }}
         trigger={
           <div className="flex items-center gap-2">
-            <EditOutlined />
+            <EditOutlined rev={undefined} />
             Edit
           </div>
         }

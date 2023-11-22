@@ -28,13 +28,13 @@ export const NavbarWidget: FC = () => {
   const items: ItemType[] = [
     {
       key: "1",
-      icon: <BulbOutlined />,
+      icon: <BulbOutlined rev={undefined} />,
       children: CreativeLabRoutes.filter(onlyStaticRoutes).map(itemMapper),
       label: "Creative Lab",
     },
     {
       key: "2",
-      icon: <SettingOutlined />,
+      icon: <SettingOutlined rev={undefined} />,
       children: BusinessSettingsRoutes.filter(onlyStaticRoutes).map(itemMapper),
       label: "Business Settings",
     },

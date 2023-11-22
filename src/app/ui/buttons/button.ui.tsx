@@ -5,7 +5,8 @@ import { SizeType } from "antd/es/config-provider/SizeContext";
 export type ButtonType =
   | "text"
   | "link"
-  | "ghost"
+  // TODO. Checkk if "ghost" should be a valid type.
+  // | "ghost"
   | "default"
   | "primary"
   | "light"
