@@ -8,11 +8,22 @@ import { CreativesTableWidget } from "./creatives.table.widget";
 import axios from "axios";
 import { LoadingOutlined } from "@ant-design/icons";
 
+interface Creative {
+  creativeId: string;
+  name: string;
+  fileType: string;
+  url: string;
+  clipEmbeddingUrl: string;
+  status: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
 const CreativeLibraryPage: FC = () => {
   const session = useSessionFeature();
   const { user, currentBrand } = session;
 
-  const [creatives, setCreatives] = useState([]);
+  const [creatives, setCreatives] = useState<Creative[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -51,7 +62,11 @@ const CreativeLibraryPage: FC = () => {
       if (response.data.errors) {
         setError(response.data.errors);
       } else {
-        setCreatives(response.data.data.listFolder.creatives);
+        const rawCreatives = response.data.data.listFolder.creatives;
+        const sortedCreatives = [...rawCreatives].sort((a, b) =>
+          a.name.localeCompare(b.name),
+        );
+        setCreatives(sortedCreatives);
       }
 
       setLoading(false);
