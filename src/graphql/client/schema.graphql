@@ -753,6 +753,12 @@ enum Sector {
   CorporateTrainingAndDevelopment
 }
 
+type SectorItem {
+  id: ID!
+  name: String
+  count: Int
+}
+
 """
 Brand Status
 """
