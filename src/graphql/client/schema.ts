@@ -596,6 +596,12 @@ export type Sector =
   | "VocationalAndTechnicalSchools"
   | "CorporateTrainingAndDevelopment";
 
+export interface SectorItem {
+  id: number;
+  name?: string;
+  count?: number;
+}
+
 /** Brand Status */
 export type BrandStatus =
   | "IN_PROGRESS"

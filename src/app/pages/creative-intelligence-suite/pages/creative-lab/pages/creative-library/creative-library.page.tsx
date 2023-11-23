@@ -43,4 +43,5 @@ const CreativeLibraryPage: FC = () => {
     </CardPageUI>
   );
 };
+
 export default CreativeLibraryPage;
