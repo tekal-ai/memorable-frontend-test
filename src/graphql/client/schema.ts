@@ -52,6 +52,19 @@ export interface Query {
   getLoggedInUser?: User;
   __typename: "Query";
 }
+export interface sectorNameItem{
+  name: string,
+  id: number
+}
+export interface sectorCountItem{
+  count: number,
+  id: number
+}
+export interface completedSector {
+  count?: number,
+  id: number,
+  name?: string,
+}
 
 export interface BrandAssetsResponse {
   adAccounts?: AdAccount[];

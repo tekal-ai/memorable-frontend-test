@@ -2,13 +2,17 @@ import { FC } from "react";
 import { useNavigationFeature } from "src/app/features/navigation/navigation.feature";
 
 interface RouteHiderProps {
-  route: string;
-}
+  routes: Array<string>;
 
-export const RouteHiderWidget: FC<RouteHiderProps> = ({ children, route }) => {
+}
+const checkRoute = (currentPathName: string, routes: Array<string>) => {
+  return routes.some((r) => r === currentPathName)
+
+}
+export const RouteHiderWidget: FC<RouteHiderProps> = ({ children, routes }) => {
   const { getPathName } = useNavigationFeature();
 
-  if (getPathName() === route) return <></>;
+  if (checkRoute(getPathName(), routes)) return <></>;
 
   return <div className="animFadeIn">{children}</div>;
 };
