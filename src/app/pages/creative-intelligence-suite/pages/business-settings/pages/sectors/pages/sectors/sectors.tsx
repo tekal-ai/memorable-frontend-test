@@ -9,7 +9,7 @@ import { LoadingPage } from "src/app/features/operations/features/loadings/pages
 
 const cardStyle: React.CSSProperties  = {
     minWidth: 150,
-    minHeight: 150,
+    minHeight: 120,
     background: "rgba(0, 0, 0, 0.06)",
     borderRadius: 0,
     display: "flex",
@@ -43,14 +43,14 @@ const Sectors: FC = () => {
     return (<LoadingPage />);
    }
   return (
-    <div className="mb-4 flex gap-2 flex-wrap">
-            {data.map((item: any, i) => (
-                <Fragment key={`card-${i}`}>
+    <div className="mb-4 flex gap-8 flex-wrap justify-between">
+            {data.map((item: completedSector) => (
+                <Fragment key={`card-${item.id}`}>
                     <Card
                     bodyStyle={{ display: "flex", flexDirection: "column",gap: 10, padding: 0}}
                     style={cardStyle}>
-                        <p style={{ fontWeight: 700, wordBreak: "break-all", wordSpacing: "100vw", maxWidth: "140px"}}>Sector name</p>
-                        <p>430</p>
+                        <p style={{ fontWeight: 700, wordBreak: "break-all", wordSpacing: "100vw", maxWidth: "140px"}}>{item.name}</p>
+                        <p>{item.count}</p>
                     </Card>
                 </Fragment>
                
