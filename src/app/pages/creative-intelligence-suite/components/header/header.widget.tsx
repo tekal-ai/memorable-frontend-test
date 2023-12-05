@@ -17,7 +17,7 @@ export const HeaderWidget: FC = () => {
       </Link>
 
       <div className="flex-1" />
-      <RouteHiderWidget route="/business-settings/account-and-brands">
+      <RouteHiderWidget routes={["/business-settings/account-and-brands", "/business-settings/sectors"]}>
         <BrandSelectorWidget />
       </RouteHiderWidget>
       <CredentialsPanelWidget />
