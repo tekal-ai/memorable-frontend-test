@@ -11,8 +11,7 @@ interface CreativeLibraryTableProps {
 
 const CreativeLibraryTable: React.FC<CreativeLibraryTableProps> = ({ data, loading }) => {
  
-    const generateCreativeKey = (creative: CreativeLibraryItem) => ({ ...creative, key: creative.creativeId });
-
+ 
     const columns: ColumnsType<CreativeLibraryItem> = [
         {
           title: "Name",
@@ -50,7 +49,7 @@ const CreativeLibraryTable: React.FC<CreativeLibraryTableProps> = ({ data, loadi
     
 
   return (
-    <TableUI columns={columns} data={data.map(generateCreativeKey)} isLoading={loading} />
+    <TableUI columns={columns} data={data} isLoading={loading} />
   );
 };
 
