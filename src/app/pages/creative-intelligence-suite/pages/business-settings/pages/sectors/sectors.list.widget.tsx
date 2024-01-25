@@ -37,7 +37,6 @@ export const SectorsListWidget: React.FC = () => {
     }
 
     if (error) {
-        // Personaliza este mensaje de error según tus necesidades
         return <div style={styles.error}>Error loading sectors: {error.message}</div>;
     }
 
@@ -46,7 +45,7 @@ export const SectorsListWidget: React.FC = () => {
             {sectors.map((sector) => (
                 <div key={sector.id} style={styles.container}>
                     <h3 style={styles.title}>{sector.name}</h3>
-                    <h5 style={styles.count}>{sector.count}</h5> {/* Asegúrate de que `count` sea una propiedad válida */}
+                    <h5 style={styles.count}>{sector.count}</h5>
                 </div>
             ))}
         </>
