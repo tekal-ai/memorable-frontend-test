@@ -1,4 +1,3 @@
-// CreativeLibraryTable.tsx
 import React from 'react';
 import { TableUI } from "src/app/ui/tables/table.ui";
 import { CreativeLibraryItem } from "src/graphql/client";
