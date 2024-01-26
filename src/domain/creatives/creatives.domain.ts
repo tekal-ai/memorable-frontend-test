@@ -15,7 +15,7 @@ export const useCreativesDomain = (repoId = "CreativeRepository", brandId: Brand
 
 
   useEffect(() => {
-    const fetchSectors = async () => {
+    const fetchCreativities= async () => {
       setIsLoading(true);
       try {
         const response = await repository.getCreatives(brandId);
@@ -27,7 +27,7 @@ export const useCreativesDomain = (repoId = "CreativeRepository", brandId: Brand
       }
     };
 
-    fetchSectors();
+    fetchCreativities();
   }, [repository]);
 
   return {
