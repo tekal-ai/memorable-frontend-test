@@ -1,6 +1,4 @@
-
 import { SectorRepository, Sector } from "src/domain/sectors/sectors.domain";
-
 
 const sectorsNames = [
   { id: 1, name: "Apparel and Accessories" },
@@ -34,6 +32,7 @@ const sectorsNames = [
   { id: 29, name: "Networking Equipment" },
   { id: 30, name: "Airlines and air transportation" }
 ];
+
 const sectorsCounts = [
   { id: 1, count: 457 },
   { id: 2, count: 512 },
@@ -70,7 +69,7 @@ const sectorsCounts = [
 export class SectorBackendRepository implements SectorRepository {
   async getSectors(): Promise<Sector[]> {
     return new Promise((resolve) => {
-      // Simulate loading
+      /* This setTimeout is added here in order to simulate loading as required*/
       setTimeout(() => {
         const mergedSectors: Sector[] = sectorsCounts.map(sectorCount => {
           const sectorName = sectorsNames.find(name => name.id === sectorCount.id);
@@ -81,7 +80,7 @@ export class SectorBackendRepository implements SectorRepository {
           };
         });
         resolve(mergedSectors);
-      }, 3000); 
+      }, 3000);
     });
   }
 }
