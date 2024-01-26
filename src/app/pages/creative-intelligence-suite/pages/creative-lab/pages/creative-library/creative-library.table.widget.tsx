@@ -2,11 +2,10 @@ import { CSSProperties, FC } from 'react';
 import { TableUI } from "src/app/ui/tables/table.ui";
 import { CreativeLibraryItem } from "src/graphql/client";
 import { ColumnsType } from "antd/es/table";
+import { useSessionFeature } from "src/app/features/session/session.feature";
 
-interface CreativeLibraryTableProps {
-  data: CreativeLibraryItem[];
-  loading: boolean;
-}
+import { useCreativesDomain } from "src/domain/creatives/creatives.domain";
+
 
 const styles: Record <string, CSSProperties> ={
   column:{
@@ -15,7 +14,19 @@ const styles: Record <string, CSSProperties> ={
   }
 };
 
-const CreativeLibraryTable: FC<CreativeLibraryTableProps> = ({ data, loading }) => {
+const CreativeLibraryTable: FC = () => {
+
+  const { currentBrand } = useSessionFeature();
+
+  if(!currentBrand){
+    return <div style={styles.error}>Error brand not selected</div>;
+  }
+  
+  const { creativities, isLoading, error } = useCreativesDomain("CreativeRepository", currentBrand );
+
+  if (error) {
+    return <div style={styles.error}>Error loading sectors: {error.message}</div>;
+  }
 
   const columns: ColumnsType<CreativeLibraryItem> = [
     {
@@ -53,7 +64,7 @@ const CreativeLibraryTable: FC<CreativeLibraryTableProps> = ({ data, loading }) 
   ];
 
   return (
-    <TableUI columns={columns} data={data} isLoading={loading} />
+    <TableUI columns={columns} data={creativities} isLoading={isLoading} />
   );
 };
 
